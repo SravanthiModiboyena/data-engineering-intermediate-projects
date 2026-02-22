@@ -1,0 +1,5 @@
+spark-warehouse/
+__pycache__/
+*.log
+
+
